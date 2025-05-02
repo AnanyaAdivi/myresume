@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #9fb6d1;
+    color: #214298;
+    line-height: 1.6;
+    
+  }
+  
+  .resume {
+    max-width: 900px;
+    margin: 60px auto;
+    background-color: #e0decd;
+    padding: 40px 50px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    font-family:'Courier New', Courier, monospace;
+    font-weight:500;
+
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  header h1 {
+    font-size: 2.8em;
+    margin-bottom: 5px;
+    color: #01040e;
+  }
+  
+  header .title {
+    font-size: 1.2em;
+    color: #08246d;
+    margin-bottom: 10px;
+  }
+  
+  header .contact {
+    font-size: 0.95em;
+    color: #000000;
+  }
+  
+  a {
+    color: #0a5f47;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .section {
+    margin-bottom: 35px;
+  }
+  
+  .section h2 {
+    font-size: 1.5em;
+    color: #410d7c;
+    border-bottom: 2px solid #450f4a;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    list-style: square inside;
+    padding-left: 0;
+  }
+  
+  ul li {
+    margin-bottom: 8px;
+  }
+  
+  strong {
+    color: #1c2f5c;
+  }
+  
